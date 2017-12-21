@@ -18,7 +18,5 @@ MOV格式有较高的压缩比和较完美的视频清晰度，主要用来作�
 
 **4.RMVB格式**
 
-RMVB\(RealMedia Variable Bitrate\)
-
-是可变的采样压缩方式，在保证静止画面质量的前提下，大幅度提高运动图像的画面质量。
+RMVB\(RealMedia Variable Bitrate\)是可变的采样压缩方式，在保证静止画面质量的前提下，大幅度提高运动图像的画面质量。
 
