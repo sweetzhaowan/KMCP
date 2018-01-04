@@ -65,6 +65,8 @@ Premiere是一个基于非线性编辑的视音频编辑软件，被广泛应用
 ![](/assets/z7.jpg)
 
                                                       \*\*图2-4-7\*\*
+                                                      
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzI5MDUwMTkwNA==' frameborder=0 'allowfullscreen'></iframe>
 
 
 
